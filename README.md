@@ -1,5 +1,21 @@
 # Step_semester_3
 
+## Date: 15.09.2026
+
+**Today's Work:**
+- Worked on week 4 problems today
+- Completed class problems and pushed to feature branch
+- Reviewed arrays of type int and String
+- worked with operations involving arrays
+
+**Next Session Plan:**
+- Continue with week 4 assignment problems
+
+**Issues Faced:**
+- No issues encountered in today's session.
+
+---
+
 ## Date: 01.09.2026
 
 **Today's Work:**
